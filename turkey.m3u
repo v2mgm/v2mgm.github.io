@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1 ,Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
+#EXTINF:-1 ,Kanal 5
+https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
+#EXTINF:-1 ,Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:-1 ,KANAL D FHD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 ,KANAL D FHD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 ,KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,Kanal Urfa
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8
+#EXTINF:-1 ,Kral Pop
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,Kral Pop
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,Kral POP 1 HD
+https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,Kral TV
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,kurd max
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+#EXTINF:-1 ,kurd max
+http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
+#EXTINF:-1 ,KURDMAX
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+#EXTINF:-1 ,Kurmanci2
+http://31.14.40.139:1935/liveTrans/Pepule/chunklist.m3u8
+#EXTINF:-1 ,Love Quran Radio
+http://158.69.227.214:8191/stream
+#EXTINF:-1 ,m20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 ,Maher Al Meaqli-Kaf
+http://server12.mp3quran.net/maher/018.mp3
+#EXTINF:-1 ,makkah tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+#EXTINF:-1 ,MANISA WEB
+http://yayin.netradyom.com:1935/live/manisatv/playist.m3u8
+#EXTINF:-1 ,Med Muzîk
+http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:-1 ,media hader
+http://137.74.205.201/live1/mh-3mbps.m3u8
+#EXTINF:-1 ,media hader
+http://137.74.205.201/live1/mh-3mbps.m3u8
+#EXTINF:-1 ,Mekka tv
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8?v=
+#EXTINF:-1 ,MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
+#EXTINF:-1 ,MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
+#EXTINF:-1 ,Morocco
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:-1 ,Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
+#EXTINF:-1 ,Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 , HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+#EXTINF:-1 , HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+#EXTINF:-1 ,go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1 ,go tv_ By : ahlakid.com
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1 ,OMAROEB WEST
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
+#EXTINF:-1 ,RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 ,RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 ,NOOR-DUBAI
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1 ,Nour Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=noordubaitv
+#EXTINF:-1 ,NR1 ASK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 ,NR1 DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 ,NR1 TURK HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e187779c76_1/playlist.m3u8
+#EXTINF:-1 ,NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,NTV - NTV 1280×720
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
+#EXTINF:-1 ,Orient News TV
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=orient
+#EXTINF:-1 ,Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,POWER HD
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 ,POWER SD
+https://hlep0q3b.rocketcdn.com/powerhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 ,Power Türk
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 ,POWER TURK HD
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 ,POWER TURK SD
+https://mggwfglv.rocketcdn.com/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 ,POWER TURK TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 ,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 ,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 ,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
+#EXTINF:-1 ,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
+#EXTINF:-1 ,TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 ,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 ,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1 ,TLC - TLC 1280×720
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 ,Tomb.Raider.2018
+http://50.7.161.202/movies/Movies/2018/06/02/Tomb.Raider.2018.720p.BluRay.akoam.net.mkv
+#EXTINF:-1 ,TR: EL ARABIA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 ,TR: EL ARABIA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 ,TR: KANALD
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1 ,Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1 ,Trentino TV*
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+#EXTINF:-1 ,TRT_Arabic+
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 ,BRT 1 (Kıbrıs)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 ,BRT 2
+http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
+#EXTINF:-1 ,BRT 2 (Turkish)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 ,Bursa TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
+#EXTINF:-1 ,Can TV
+http://canbroadcast.com:7000/canlican/tv.m3u8
+#EXTINF:-1 ,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 ,CRI Turk Belgesel
+http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
+#EXTINF:-1 ,Dersim62 TV
+http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
+#EXTINF:-1 ,Diyalog TV
+http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
+#EXTINF:-1 ,Diyalog TV
+https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
+#EXTINF:-1 ,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:-1 ,Doğuş TV
+http://s01.vpis.io/dogustv/dogustv.m3u8
+#EXTINF:-1 ,ETV Manisa
+https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
+#EXTINF:-1 ,EuroStar
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,Finans Turk TV
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 ,FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:-1 ,Guneydoğu TV
+http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
+#EXTINF:-1 ,Istanbul Metropolitan Municipality
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+#EXTINF:-1 ,Istanbul Metropolitan Municipality
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+#EXTINF:-1 ,Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
+#EXTINF:-1 ,Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:-1 ,Kanal Urfa
+http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8
+#EXTINF:-1 ,Kon TV
+https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
+#EXTINF:-1 ,Kral Pop
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,Kral Pop
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,Kral TV
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,Med Muzîk
+http://137.74.205.201/live3/mm-3mbps.m3u8
+#EXTINF:-1 ,Natural TV
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 ,Natural TV
+https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
+#EXTINF:-1 ,NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 ,NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
+#EXTINF:-1 ,Power Türk
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 ,Show
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+#EXTINF:-1 ,Star TV
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,Star TV
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+#EXTINF:-1 ,TBMM TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 ,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
+#EXTINF:-1 ,TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 ,TGRT Haber
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 ,tivi TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 ,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
+#EXTINF:-1 ,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 ,TV 4
+https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
+#EXTINF:-1 ,UçanKuş TV
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
